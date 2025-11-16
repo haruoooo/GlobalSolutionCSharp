@@ -1,0 +1,11 @@
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Domain\bin\Release\net8.0\FutureWork.Domain.deps.json
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Domain\bin\Release\net8.0\FutureWork.Domain.dll
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Domain\bin\Release\net8.0\FutureWork.Domain.pdb
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Domain\obj\Release\net8.0\FutureWork.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Domain\obj\Release\net8.0\FutureWork.Domain.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Domain\obj\Release\net8.0\FutureWork.Domain.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Domain\obj\Release\net8.0\FutureWork.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Domain\obj\Release\net8.0\FutureWork.Domain.dll
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Domain\obj\Release\net8.0\refint\FutureWork.Domain.dll
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Domain\obj\Release\net8.0\FutureWork.Domain.pdb
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Domain\obj\Release\net8.0\ref\FutureWork.Domain.dll

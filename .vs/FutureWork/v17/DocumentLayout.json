@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haruo\\OneDrive\\Desktop\\FutureWork\\FutureWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B621A133-A03D-407E-AFB4-655FDE4AC035}|FutureWork.API\\FutureWork.API.csproj|c:\\users\\haruo\\onedrive\\desktop\\futurework\\futurework\\futurework.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B621A133-A03D-407E-AFB4-655FDE4AC035}|FutureWork.API\\FutureWork.API.csproj|solutionrelative:futurework.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\haruo\\OneDrive\\Desktop\\FutureWork\\FutureWork\\FutureWork.API\\appsettings.json",
+              "RelativeDocumentMoniker": "FutureWork.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\haruo\\OneDrive\\Desktop\\FutureWork\\FutureWork\\FutureWork.API\\appsettings.json",
+              "RelativeToolTip": "FutureWork.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T01:42:33.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Business\bin\Release\net8.0\FutureWork.Business.deps.json
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Business\bin\Release\net8.0\FutureWork.Business.dll
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Business\bin\Release\net8.0\FutureWork.Business.pdb
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Business\bin\Release\net8.0\FutureWork.Data.dll
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Business\bin\Release\net8.0\FutureWork.Domain.dll
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Business\bin\Release\net8.0\FutureWork.Data.pdb
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Business\bin\Release\net8.0\FutureWork.Domain.pdb
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Business\obj\Release\net8.0\FutureWork.Business.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Business\obj\Release\net8.0\FutureWork.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Business\obj\Release\net8.0\FutureWork.Business.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Business\obj\Release\net8.0\FutureWork.Business.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Business\obj\Release\net8.0\FutureWork.Business.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Business\obj\Release\net8.0\FutureWo.54068B67.Up2Date
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Business\obj\Release\net8.0\FutureWork.Business.dll
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Business\obj\Release\net8.0\refint\FutureWork.Business.dll
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Business\obj\Release\net8.0\FutureWork.Business.pdb
+C:\Users\Matheus\Desktop\FutureWork\FutureWork.Business\obj\Release\net8.0\ref\FutureWork.Business.dll
